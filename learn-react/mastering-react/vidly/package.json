@@ -40,6 +40,7 @@
     "eslint-plugin-react": "^7.19.0",
     "lodash": "^4.17.15",
     "prettier": "^2.0.4",
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.7.2",
+    "react-router-dom": "^5.1.2"
   }
 }
