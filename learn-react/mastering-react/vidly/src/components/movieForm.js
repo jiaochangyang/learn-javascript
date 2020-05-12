@@ -71,10 +71,9 @@ class MovieForm extends Form {
   };
 
   render() {
-    console.log("test", this.state.genre);
     return (
       <div>
-        <h1>{"Movie Form"}</h1>
+        <h1>Movie Form</h1>
         <form onSubmit={this.handleSubmit}>
           {this.renderInput("title", "Title")}
           {this.renderSelect("genreId", "Genre", this.state.genres)}
