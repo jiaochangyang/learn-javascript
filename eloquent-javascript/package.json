@@ -1,0 +1,23 @@
+{
+  "name": "eloquent-javascript",
+  "version": "1.0.0",
+  "description": "Practice exercises for Eloquent Javascript",
+  "main": "ch2.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.15.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaochangyang/learn-javascript.git"
+  },
+  "author": "Chang Yang Jiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiaochangyang/learn-javascript/issues"
+  },
+  "homepage": "https://github.com/jiaochangyang/learn-javascript#readme"
+}
